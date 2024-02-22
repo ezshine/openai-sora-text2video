@@ -9,9 +9,8 @@ export default function () {
           Sora AI Video Generator
         </h1>
         <h2 className="mx-auto mt-2 max-w-xl text-center text-xl leading-8 text-gray-300">
-          Make AI Video With Sora
+        Sora is an AI model that can create realistic and imaginative scenes from text instructions.
         </h2>
-        <Producthunt />
 
         <Input />
         <svg

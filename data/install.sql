@@ -19,3 +19,8 @@ CREATE TABLE videos (
     created_at timestamptz,
     uuid UUID UNIQUE NOT NULL
 );
+
+CREATE TABLE subscribers (
+    id SERIAL PRIMARY KEY,
+    email VARCHAR(255) UNIQUE NOT NULL
+);

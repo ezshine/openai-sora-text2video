@@ -15,7 +15,7 @@ export default function () {
                 className="w-10 h-10 rounded-full mr-3"
                 alt="logo"
               /> */}
-              <span className="font-bold text-primary text-2xl">Sora.FM</span>
+              <span className="font-bold text-primary text-2xl">Sora</span>
             </a>
 
             <div className="hidden md:flex ml-16">
